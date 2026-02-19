@@ -20,6 +20,12 @@ The goal was simple:
 * Build confidence through hands-on coding
 * Create structure during a chaotic time
 
+## Who this is for
+
+- Beginners learning Python
+- Self-taught developers wanting simple examples
+- Anyone looking for readable, practical starter code
+
 This repo remains public as a reference for newcomers looking for simple, readable Python examples.
 
 ## Tech
